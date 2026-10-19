@@ -1,0 +1,23 @@
+{
+  "executive": [
+    {"id": "DOC-001", "type": "Payslip", "page": 1, "year": 2021, "text": "Employer: Nimbus Tech Pte Ltd. Annual base salary SGD 240,000. Bonus SGD 60,000."},
+    {"id": "DOC-002", "type": "Payslip", "page": 1, "year": 2022, "text": "Employer: Nimbus Tech Pte Ltd. Annual base salary SGD 252,000. Bonus SGD 75,000."},
+    {"id": "DOC-003", "type": "Tax Notice", "page": 1, "year": 2022, "text": "Notice of Assessment. Chargeable income SGD 300,000. Tax paid SGD 24,000."},
+    {"id": "DOC-004", "type": "Bank Statement", "page": 1, "year": 2023, "text": "Savings account balance SGD 1,200,000. Regular salary credits from Nimbus Tech."},
+    {"id": "DOC-005", "type": "Investment Statement", "page": 2, "year": 2023, "text": "Portfolio market value SGD 1,450,000. Holdings in global equity funds."},
+    {"id": "DOC-006", "type": "Property Valuation", "page": 1, "year": 2023, "text": "Condominium at 12 River Valley Road. Valuation SGD 2,100,000. Mortgage outstanding SGD 1,400,000."}
+  ],
+  "founder": [
+    {"id": "DOC-101", "type": "Sale Agreement", "page": 3, "year": 2023, "text": "Share purchase agreement. 100% of CloudNine SaaS Pte Ltd sold to Meridian PE for SGD 22,000,000."},
+    {"id": "DOC-102", "type": "Company Filing", "page": 1, "year": 2023, "text": "ACRA filing confirms Ben Lim held 80% of CloudNine SaaS Pte Ltd prior to sale."},
+    {"id": "DOC-103", "type": "Bank Statement", "page": 4, "year": 2023, "text": "Receipt of sale proceeds SGD 17,600,000 credited to DBS account ending 8821."},
+    {"id": "DOC-104", "type": "Tax Notice", "page": 1, "year": 2024, "text": "Capital gains not taxable in Singapore. Notice of Assessment for employment income SGD 0."},
+    {"id": "DOC-105", "type": "Investment Statement", "page": 2, "year": 2024, "text": "Portfolio market value SGD 2,300,000 in global equity and bond funds."}
+  ],
+  "inheritance": [
+    {"id": "DOC-201", "type": "Will / Probate", "page": 2, "year": 2020, "text": "Estate of Mr Ng Kian Seng. Beneficiary Chloe Ng receives shophouse portfolio and cash of SGD 5,500,000."},
+    {"id": "DOC-202", "type": "Property Valuation", "page": 1, "year": 2024, "text": "Three shophouses at 45 Amoy Street. Combined valuation SGD 6,800,000."},
+    {"id": "DOC-203", "type": "Bank Statement", "page": 3, "year": 2024, "text": "Fixed deposit SGD 2,400,000. Rental income credits SGD 18,000 per month."},
+    {"id": "DOC-204", "type": "Tax Notice", "page": 1, "year": 2024, "text": "Rental income declared SGD 216,000. Tax paid SGD 12,800."}
+  ]
+}
