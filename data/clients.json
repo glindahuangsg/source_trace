@@ -1,0 +1,20 @@
+{
+  "executive": {
+    "name": "Alice Tan",
+    "profile": "Salaried executive, 42, VP Engineering at a listed tech firm in Singapore.",
+    "declared_net_worth": 3200000,
+    "currency": "SGD"
+  },
+  "founder": {
+    "name": "Ben Lim",
+    "profile": "Founder, 38, sold his SaaS company to a regional PE fund in 2023.",
+    "declared_net_worth": 18500000,
+    "currency": "SGD"
+  },
+  "inheritance": {
+    "name": "Chloe Ng",
+    "profile": "Inheritance and property, 55, inherited family shophouse portfolio and cash.",
+    "declared_net_worth": 9200000,
+    "currency": "SGD"
+  }
+}
